@@ -1,0 +1,26 @@
+# Sai Reddy A — .NET Full Stack Developer
+
+> Sai Reddy A is a .NET Full Stack Developer based in Hyderabad, India, with 4+ years of experience building production web applications in C#, ASP.NET Core, Angular, SQL Server, Azure and AWS. He currently works as a Software Engineer at Keka Technologies on the SaaS billing and subscription platform behind Keka's HR product. Open to senior .NET / full stack roles.
+
+## Key facts
+- Name: Sai Reddy A (also "Sai Reddy")
+- Role: .NET Full Stack Developer / Software Engineer
+- Location: Hyderabad, Telangana, India
+- Experience: 4+ years
+- Current employer: Keka Technologies Private Ltd (Nov 2025 – present)
+- Previous: Solve Corp, Chennai (Apr 2023 – Oct 2025, led a team of 4)
+- Core stack: C#, .NET Core / .NET 8, ASP.NET Core Web API & MVC, Angular, TypeScript, SQL Server, Dapper, PetaPoco, Entity Framework, Azure Functions, AWS (Lambda, DynamoDB, S3, Cognito), Redis, Hangfire, SignalR, WebRTC, microservices, event-driven architecture
+- Domains: SaaS billing & subscriptions, ERP / process automation, fleet management
+- Contact: saireddy.1.1919@gmail.com
+
+## Highlights
+- Cut API response time 20–30% by moving billing event processing to an event-driven model with Azure Functions (Keka).
+- Improved unit and integration test coverage by 80% across the billing platform (Keka).
+- Delivered 20+ REST APIs for a multi-tenant Enterprise Machine Management product while leading 4 developers (Solve Corp).
+- Improved database performance 15% through stored-procedure optimisation.
+
+## Links
+- [Portfolio](https://saireddya.dev/)
+- [Résumé (PDF)](https://saireddya.dev/assets/Sai_Reddy_A_DotNet_Full_Stack_Developer_Resume.pdf)
+- [GitHub](https://github.com/SaiReddyA)
+- [LinkedIn](https://www.linkedin.com/in/saireddy-dotnetfs)

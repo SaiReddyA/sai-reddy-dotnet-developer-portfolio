@@ -1,0 +1,12 @@
+{
+  "name": "Sai Reddy A — .NET Full Stack Developer",
+  "short_name": "Sai Reddy",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0a0b10",
+  "theme_color": "#8b5cf6",
+  "icons": [
+    { "src": "assets/img/favicon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "assets/img/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
